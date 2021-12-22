@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.nevermere.androidtemplate.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nevermere.androidtemplate.MyBundle
 
 class MyProjectService(project: Project) {
 

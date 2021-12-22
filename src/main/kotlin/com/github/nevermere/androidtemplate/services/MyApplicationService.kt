@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.nevermere.androidtemplate.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.nevermere.androidtemplate.MyBundle
 
 class MyApplicationService {
 
